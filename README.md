@@ -7,6 +7,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mtereshyn&layout=compact)](https://github.com/mtereshyn/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mtereshyn)](https://github.com/mtereshyn/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mtereshyn&repo=github-readme-stats)](https://github.com/mtereshyn/github-readme-stats)
+
 
 [![Gmail Badge](https://img.shields.io/badge/-max.tereshyn@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:max.tereshyn@gmail.com)](mailto:max.tereshyn@gmail.com)
