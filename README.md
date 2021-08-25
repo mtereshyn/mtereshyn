@@ -9,3 +9,5 @@
 
 
 [![Gmail Badge](https://img.shields.io/badge/-max.tereshyn@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:max.tereshyn@gmail.com)](mailto:max.tereshyn@gmail.com)
+
+<a href="mtereshyn.github.io"> GitHub-Page</a>
