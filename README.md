@@ -5,5 +5,5 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=mtereshyn&show_icons=true&theme=ocean_dark" alt="mtereshyn" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mtereshyn&show_icons=true&theme-ocean_dark)](https://github.com/mtereshyn/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mtereshyn&layout=compact)](https://github.com/mtereshyn/github-readme-stats)
 
