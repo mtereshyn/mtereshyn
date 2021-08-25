@@ -5,4 +5,4 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=mtereshyn&show_icons=true&theme=ocean_dark" alt="mtereshyn" />
 
-![GitHub Maksym Tereshyn](https://github-readme-stats.vercel.app/api?username=mtereshyn&show_icons=true)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mtereshyn&repo=github-readme-stats)](https://github.com/mtereshyn/github-readme-stats)
