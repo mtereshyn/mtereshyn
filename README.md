@@ -11,3 +11,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-max.tereshyn@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:max.tereshyn@gmail.com)](mailto:max.tereshyn@gmail.com)
 
 <a href="https://mtereshyn.github.io/" style="color:#fff;">Portfolio Link</a>
+
+
+<img src="file:///Users/mtereshyn/Desktop/css-certificate.pdf">
