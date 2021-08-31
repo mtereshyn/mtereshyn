@@ -13,4 +13,3 @@
 <a href="https://mtereshyn.github.io/" style="color:#fff;">Portfolio Link</a>
 
 
-<img src="file:///Users/mtereshyn/Desktop/css-certificate.pdf">
