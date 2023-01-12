@@ -1,6 +1,8 @@
 ### Hi 👋
-<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-![](https://visitor-badge.glitch.me/badge?page_id=mtereshyn)
+
+<div id="header" align="center">
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://giphy.com/embed/qgQUggAC3Pfv687qPC)" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen/>
+</div>
 [![GitHub Maksym Tereshyn](https://img.shields.io/github/followers/mtereshyn?label=follow&style=social)](https://github.com/mtereshyn)
 
 <img src="https://github-readme-stats.vercel.app/api?username=mtereshyn&show_icons=true&theme=ocean_dark" alt="mtereshyn" />
